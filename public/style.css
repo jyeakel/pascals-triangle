@@ -1,0 +1,17 @@
+body {
+  background-color: black;
+}
+
+canvas {
+  /*border: #FFF 4px solid;*/
+  display: block;
+}
+
+canvas {
+  position: absolute;
+  margin: auto;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
